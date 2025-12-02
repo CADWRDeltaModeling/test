@@ -1,6 +1,8 @@
 # Introduction
 This repo has been prepared as the platform to practice git commands.
 
+It is perfectly ok to break things.
+
 # Essential git commands and techniques
 
 
@@ -28,7 +30,8 @@ This repo has been prepared as the platform to practice git commands.
 
     Frequently used options:
 
-    `-i`:
+    `-i`: Enters interactive mode. Here, user can select deisred commands step by step.
+    `-p`:
 
 - `commit`
 
