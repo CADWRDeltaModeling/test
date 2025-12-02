@@ -1,0 +1,6 @@
+alligator
+butterfly
+cat
+dog
+emu
+flamingo
