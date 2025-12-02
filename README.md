@@ -19,7 +19,12 @@ This repo has been prepared as the platform to practice git commands.
 - `init`
 
     Use this to create a new git repo. For example, running `git init` will make the current directory a git repo.
+
+- `status`
+
 - `add`
+
+    This command stages the changes that have occurred in the local repo (modifying what is inside a file, creating a new file, removing an exsting file, etc. ).
 - `commit`
 
 - `push`
