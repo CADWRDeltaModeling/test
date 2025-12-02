@@ -2,5 +2,5 @@ alligator
 butterfly
 cat
 dog
-emu
+elephant
 flamingo
