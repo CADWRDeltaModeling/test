@@ -24,6 +24,12 @@ It is perfectly ok to break things.
 
 - `status`
 
+    Frequently used options:
+
+    `-s`
+
+    `-u`
+
 - `add`
 
     This command stages the changes that have occurred in the local repo (modifying what is inside a file, creating a new file, removing an exsting file, etc. ).
@@ -31,27 +37,54 @@ It is perfectly ok to break things.
     Frequently used options:
 
     `-i`: Enters interactive mode. Here, user can select deisred commands step by step.
-    `-p`:
+
+    `-p`: Pick and choose different edits and files
 
 - `commit`
 
+    Commits currently staged changes.
+
+    Frequently used options:
+
+    `--amend`: When  `git commit --amend` is run, user can change the last commit message.  
+
 - `push`
 - `pull`
+- `reset`
+    
+    Frequently used options:
 
+    `--soft`
+
+    `--mixed`
+
+    `--hard`
+    
 ### Making and undoing changes 
 - `mv`
-- `reset`
+- `rm`
 - `restore`
 - `stash`
+- `tag`
 
 ### Versioning
 - `branch`
 - `checkout`
-- `tag`
+- `track`
+- `update`
+
+### Making collaboration smooth
+- fork
+- pull request
 
 ## Intermediate
 ### rebase
+- squash
+- reorder
+- delete
 ### merge
+
+### rebase vs. merge
 ### conflict resolution
 
 ## Advanced
