@@ -24,11 +24,18 @@ It is perfectly ok to break things.
 
 - `status`
 
+    This shows the status of the local repo - any changes, what have been staged, etc.
+
     Frequently used options:
 
     `-s`
 
-    `-u`
+    `-u[mode]`: Specifies what is displayed under "Untracked files". `-u` must be followed by one of the following modes without any space (e.g., `git status -uno`):
+
+    - `no`: Hides untracked files.
+    - `normal`: Shows untracked files and directories (without the contents therein). Same as running `git status` (without the `-u` option).
+    - `all`: Shows untracked files and directories and their contents inside. Same as running `git status -u`.
+
 
 - `add`
 
