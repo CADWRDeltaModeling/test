@@ -36,8 +36,9 @@ It is perfectly ok to break things.
     - `all`: Shows all untracked files. Same as running `git status -u`.
     - `normal`: Shows untracked files and the names of directories that contain untracked files (without the contents therein). Same as running `git status` (without the `-u` option).
 
-    [!Note]
-    git tracks files, not directories. Thus, empty directories will never show up with `git status`
+    ```
+    Note: git tracks files, not directories. Thus, empty directories will never show up with `git status`
+    ```
 
 - `add`
 
