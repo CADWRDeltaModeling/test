@@ -33,9 +33,10 @@ It is perfectly ok to break things.
     `-u[mode]`: Specifies what is displayed under "Untracked files". `-u` must be followed by one of the following modes without any space (e.g., `git status -uno`):
 
     - `no`: Hides untracked files.
-    - `normal`: Shows untracked files and directories (without the contents therein). Same as running `git status` (without the `-u` option).
-    - `all`: Shows untracked files and directories and their contents inside. Same as running `git status -u`.
+    - `all`: Shows all untracked files. Same as running `git status -u`.
+    - `normal`: Shows untracked files and the names of directories that contain untracked files (without the contents therein). Same as running `git status` (without the `-u` option).
 
+            Note: git tracks files, not directories. Thus, empty directories will never show up with `git status`
 
 - `add`
 
