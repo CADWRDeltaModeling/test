@@ -2,6 +2,7 @@
 This repo has been prepared as the platform to practice git commands.
 
 It is perfectly ok to break things.
+Ok so breaking them now
 
 # Essential git commands and techniques
 
