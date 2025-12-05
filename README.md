@@ -28,7 +28,7 @@ It is perfectly ok to break things.
 
     Frequently used options:
 
-    `-s`
+    `-s`: Displays the result in the simpler, short-format. "D" for deleted, "M" for modified, etc.
 
     `-u[mode]`: Specifies what is displayed under "Untracked files". `-u` must be followed by one of the following modes without any space (e.g., `git status -uno`):
 
@@ -59,7 +59,17 @@ It is perfectly ok to break things.
     `--amend`: When  `git commit --amend` is run, user can change the last commit message.  
 
 - `push`
+
+    Pushes all commited changes to remote repo.
+
 - `pull`
+
+    Downloads the contents of the remote repo to the local repo.
+
+    Frequently used options:
+
+    `--rebase`
+
 - `reset`
     
     Frequently used options:
