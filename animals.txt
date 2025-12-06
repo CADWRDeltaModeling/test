@@ -1,9 +1,9 @@
 alligator
 butterfly
 cat
-dog
+do
 elephant
 flamingo
-giraffe
+graffe
 hippo
 iguana
