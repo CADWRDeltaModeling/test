@@ -1,6 +1,7 @@
 argentina
 brazil
-canada
+chile
 denmark
 ecuador
-finland
+france
+georgia
