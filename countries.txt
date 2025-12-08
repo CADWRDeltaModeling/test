@@ -5,3 +5,4 @@ denmark
 ecuador
 france
 georgia
+haiti
