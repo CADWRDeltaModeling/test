@@ -94,7 +94,13 @@ It is perfectly ok to break things.
     2. Run `git stash list` to look at the list of stashes.
     3. Run `git stash apply` followed by the stash hash to bring back the desired changes.
 
-- `tag`
+- `tag`: Marks specific commits.
+
+    Use example:
+    
+    1. Run `git tag v1` to mark the current commit as "v1"
+    2. Run `git tag` to see list of existing tags
+    3. Run `git show v1` to see what the tagged commit changed. If a message was included when tagging (e.g., `git tag -a v1 -m "Prototype done"`), then the message will also be shown.
 
 ### Versioning
 - `branch`
