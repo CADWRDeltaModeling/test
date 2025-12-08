@@ -76,17 +76,24 @@ It is perfectly ok to break things.
     
     Frequently used options:
 
-    `--soft`: 
+    `--soft`: Only moves the HEAD, and all commited changes are saved.
 
-    `--mixed`
+    `--mixed`: Moves the HEAD and and unstages changes, but the working directory is NOT modified. Default behavior of `git reset` (used without options)
 
-    `--hard`
-    
+    `--hard`: The working directory becomes exactly the selected commit. To undo, run `git reflog` to identify the point to which you want to go back, then run `git reset` followed by the reference hash.
+
 ### Making and undoing changes 
-- `mv`
-- `rm`
-- `restore`
-- `stash`
+- `mv`: Renames or moves a file then automatically stages the changes.
+- `rm`: Removes a file then automatically stages the changes.
+- `restore`: Discards uncommited changes.
+- `stash`: Temporarily shelves the local changes to be used later.
+
+    Use example:
+    
+    1. Run `git stash` to shelve local changes.
+    2. Run `git stash list` to look at the list of stashes.
+    3. Run `git stash apply` followed by the stash hash to bring back the desired changes.
+
 - `tag`
 
 ### Versioning
