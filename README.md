@@ -59,12 +59,24 @@ It is perfectly ok to break things.
     `--amend`: When  `git commit --amend` is run, user can change the last commit message.  
 
 - `push`
+
+    Pushes all commited changes to the remote repo.
+
 - `pull`
+
+    Fetches new commits from the remote repo then merges them into the local (same thing as doing `git fetch` then `git merge`). 
+
+    Frequently used options:
+
+    `--rebase` (strongly recommended to use whenver doing `git pull`): Fetches new commits from the remote, then combines them with any local changes without merging, thus creating a clean, linear history.
+
 - `reset`
+
+    Undos commits that have not been pushed to the remote repo.
     
     Frequently used options:
 
-    `--soft`
+    `--soft`: 
 
     `--mixed`
 
