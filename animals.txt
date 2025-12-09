@@ -8,3 +8,4 @@ manatis
 hen
 elephant
 squirrel
+rabbit
