@@ -3,6 +3,16 @@ This repo has been prepared as the platform to practice git commands.
 
 It is perfectly ok to break things.
 
+# Pre-requisite
+
+- Check to see if you have git installed: https://github.com/git-guides/install-git
+- Although not required, it is recommended to enable SSH authentication: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+# Git architecture
+
+![This diagram explains the different "levels" that exist in git](./images/git_architecture.png)
+
+
 # Essential git commands and techniques
 
 
