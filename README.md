@@ -66,6 +66,8 @@ It is perfectly ok to break things.
 
     Frequently used options:
 
+    `-m`: Used as in `git commit -m "Introduce a new variable x"`, this option lets users to provide the commit message directly (as opposed to entering it on the default text editor)
+
     `--amend`: When  `git commit --amend` is run, user can change the last commit message.  
 
 - `push`
