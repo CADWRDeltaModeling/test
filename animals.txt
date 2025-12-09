@@ -1,12 +1,9 @@
 alligator
 butterfly
 cat
-dog
+doggo
 elephant
 flamingo
-<<<<<<< HEAD
-lion
-=======
 manatis
 elephant
->>>>>>> f20c5e2082f95bf6c3afeea20dd18d9b22d6ea25
+squirrel
