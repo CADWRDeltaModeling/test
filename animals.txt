@@ -9,3 +9,4 @@ hen
 elephant
 squirrel
 rabbit
+zebra
