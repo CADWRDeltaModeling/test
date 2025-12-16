@@ -6,7 +6,11 @@ elefant
 flamingo
 manatis
 hen
+giraffe
 iguana
+elephant
+mouse
+xyz
 squirrel
 rabbit
 zebra
