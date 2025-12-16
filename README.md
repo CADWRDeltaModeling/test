@@ -105,6 +105,7 @@ It is perfectly ok to break things.
     1. Run `git stash` to shelve local changes.
     2. Run `git stash list` to look at the list of stashes.
     3. Run `git stash apply` followed by the stash hash to bring back the desired changes.
+    4. Run `git stash pop` applies and removes the stash.
 
 - `tag`: Marks specific commits.
 
