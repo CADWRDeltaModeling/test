@@ -2,7 +2,7 @@ alligator
 butterfly
 cat
 doggo
-elephant
+elefant
 flamingo
 manatis
 hen
