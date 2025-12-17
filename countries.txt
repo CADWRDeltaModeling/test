@@ -1,5 +1,5 @@
 algeria
-brazil
+brazilia
 canada
 denmark
 ecuador
@@ -7,6 +7,6 @@ greece
 finkland
 greece
 haiti
-india
+indigo
 jamaica
 kenya
