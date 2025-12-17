@@ -134,6 +134,25 @@ It is perfectly ok to break things.
 
 ### rebase vs. merge
 ### conflict resolution
+Conflict resolution is confusing in vscode so might be simpler to do via plain text editor
+Look for 
+```
+<<<<<<
+some words here
+======
+some other words here
+>>>>>>
+```
+Resolve the above by choosing any combination of the text between <<<<< and >>>>> and then removing those special markers <<<<<<<<, =========, >>>>>>>> once done
+
+E.g. I typed in whatever content and replaced the special markers
+```
+some words here with other words that are upto me
+```
+
+Make sure to verify that there are no other conflict blocks (with those special symbols anywhere else)
+
+Then add the modified file and commit as usual to resolve the merge.
 
 ## Advanced
 ### Best practices
