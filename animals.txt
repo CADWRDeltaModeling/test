@@ -13,5 +13,6 @@ mouse
 nutria
 xyz
 squirrel
+quail
 rabbit
 zebra
