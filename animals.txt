@@ -16,3 +16,4 @@ quail
 rabbit
 zebra
 panda
+magpie
