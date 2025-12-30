@@ -15,11 +15,14 @@ squirrel
 quail
 rabbit
 zebra
-<<<<<<< HEAD
+
 magpie
 shark
 snake
 horse
-=======
+
 panda
->>>>>>> 64bd910 (Add a new animal)
+
+panda
+magpie
+
