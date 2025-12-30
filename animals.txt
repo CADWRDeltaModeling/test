@@ -16,5 +16,6 @@ quail
 rabbit
 zebra
 panda
+magpie
 lions, tigers, and bears
 flying monkeys
