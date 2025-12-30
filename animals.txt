@@ -12,3 +12,4 @@ rabbit
 zebra
 panda
 cheetah
+gecko
