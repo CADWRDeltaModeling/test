@@ -12,6 +12,7 @@ elephant
 mouse
 xyz
 squirrel
+quail
 rabbit
 zebra
 magpie
