@@ -10,3 +10,5 @@ iguana
 squirrel
 rabbit
 zebra
+panda
+cheetah
