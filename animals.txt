@@ -18,5 +18,6 @@ zebra
 panda
 magpie
 shark
+snake
 lions, tigers, and bears
 flying monkeys
