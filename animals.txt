@@ -1,4 +1,4 @@
-gator
+alligator
 butterfly
 cat
 doggo
@@ -6,13 +6,8 @@ elefant
 flamingo
 manatis
 hen
-giraffe
 iguana
-elephant
-mouse
-xyz
 squirrel
-quail
 rabbit
 zebra
 
