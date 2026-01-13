@@ -17,3 +17,4 @@ rabbit
 zebra
 panda
 lions, tigers, and bears
+flying monkeys
