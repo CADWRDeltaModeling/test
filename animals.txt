@@ -19,5 +19,6 @@ panda
 magpie
 shark
 snake
+horse
 lions, tigers, and bears
 flying monkeys
