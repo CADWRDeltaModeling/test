@@ -9,4 +9,5 @@ hen
 iguana
 squirrel
 rabbit
+tiger
 zebra
