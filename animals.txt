@@ -10,16 +10,9 @@ iguana
 squirrel
 rabbit
 zebra
-
 magpie
 shark
 snake
 horse
-
 panda
 
-panda
-magpie
-shark
-snake
-horse
