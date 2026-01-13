@@ -16,3 +16,4 @@ squirrel
 quail
 rabbit
 zebra
+panda
