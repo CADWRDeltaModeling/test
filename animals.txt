@@ -13,3 +13,4 @@ zebra
 magpie
 shark
 snake
+horse
