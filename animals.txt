@@ -27,3 +27,4 @@ panda
 magpie
 shark
 snake
+horse
