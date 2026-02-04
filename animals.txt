@@ -22,5 +22,4 @@ snake
 horse
 donkey
 black phoebe
-manatee
 mongoose
