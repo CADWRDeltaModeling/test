@@ -2,9 +2,9 @@ gator
 butterfly
 cat
 doggo
-elefant
+elephant
 flamingo
-manatis
+manatees
 hen
 giraffe
 iguana
@@ -22,5 +22,9 @@ snake
 horse
 donkey
 black phoebe
+mongoose
+parrot
 manatee
 armadillo
+mongoose
+parrot
