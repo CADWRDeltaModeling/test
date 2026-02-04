@@ -24,3 +24,5 @@ donkey
 black phoebe
 mongoose
 parrot
+manatee
+armadillo
