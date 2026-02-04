@@ -4,7 +4,7 @@ cat
 doggo
 elephant
 flamingo
-manatis
+manatees
 hen
 giraffe
 iguana
